@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+Creates a .git file, to track changes.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Sort of a temp folder, don't know that it offers a real value other than another check point.
+

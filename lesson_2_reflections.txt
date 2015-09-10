@@ -4,3 +4,6 @@ Creates a .git file, to track changes.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Sort of a temp folder, don't know that it offers a real value other than another check point.
 
+How can you use the staging area to make sure you have one commit per logical change?
+See what's in the staging area before committing, delete files if need be.
+

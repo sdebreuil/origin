@@ -7,3 +7,9 @@ Only pull when ready.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks: clone on github; clones: download or copy repository locally; branches: splitting project into two streams.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can study it before merging.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Send files by email, open communication, small teams. Small projects would be easier, large projects impossible.
+

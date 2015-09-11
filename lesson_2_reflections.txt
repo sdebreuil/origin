@@ -7,3 +7,15 @@ Sort of a temp folder, don't know that it offers a real value other than another
 How can you use the staging area to make sure you have one commit per logical change?
 See what's in the staging area before committing, delete files if need be.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Big scary changes, different versions. Allow you to keep changes seperate
+
+How do the diagrams help you visualize the branch structure?
+Flow charts, baby!
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Two branches become one, represented to show the path of parenthood.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Speed vs. accuracy.
+

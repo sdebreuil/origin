@@ -13,3 +13,6 @@ You can study it before merging.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Send files by email, open communication, small teams. Small projects would be easier, large projects impossible.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you want to clean up branch before merging. Benefit is cleaner code, though more steps.
+
